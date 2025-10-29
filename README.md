@@ -1,12 +1,8 @@
-
----
-
 🛒 E-Commerce Backend API
-```markdown
-# 🛒 E-commerce Backend API
 
 A scalable and secure backend built with Node.js, Express, and MongoDB, designed for managing users, products, carts, and orders.
 Includes JWT authentication, bcrypt-based password hashing, and role-based route protection.
+
 ---
 
 ## ⚙️ Tech Stack
